@@ -22,7 +22,7 @@ I’m passionate about using data, technology, and actuarial thinking to solve r
 ## 🧩 Projects
 
 - 🧠 Visual Support Web App (Private Repo - Under NDA)
-  Full-stack app (Flask + React) that helps professionals create visual aids for neurodivergent clients. Used by therapists to support communication and behaviour planning.
+  Full-stack app (React + Node) that helps professionals create visual aids for neurodivergent clients. Used by therapists to support communication and behaviour planning.
 
 - 🐾 [Pet Insurance Pricing Model](https://github.com/Manjot44/Fetch-Pet-Insurance-Datathon)  
   1st Place in the Fetch Datathon. Built an Explainable Boosting Model (EBM) with PCA and clustering to price pet insurance. Balanced accuracy and interpretability in a startup context.
