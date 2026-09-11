@@ -21,7 +21,7 @@ I’m passionate about using data, technology, and actuarial thinking to solve r
 
 ## 🧩 Projects
 
-- 🧠 Visual Support Web App (Private Repo - Under NDA) <br>
+- 🧠 [Visual Support Web Application](https://github.com/Manjot44/Communication-Spectrum-Web-App)
   Full-stack app (React + Node + PostgreSQL) that helps professionals create visual aids for neurodivergent clients. Used by therapists to support communication and behaviour planning.
 
 - 🐾 [Pet Insurance Pricing Model](https://github.com/Manjot44/Fetch-Pet-Insurance-Datathon)  
